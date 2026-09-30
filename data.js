@@ -1,6 +1,6 @@
 window.MAHABBAH = {
   "contact": {
-    "number": "",
+    "number": "6281912380316",
     "consultationMessage": "Assalamu’alaikum, saya ingin berkonsultasi mengenai program Rumah Tahfizh Mahabbah.",
     "address": null,
     "instagram": null,
